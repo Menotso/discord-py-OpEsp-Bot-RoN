@@ -11,7 +11,7 @@ from cogs.levelsystem import levelsystem
 
 id_do_servidor = 1114290574044971031
 id_cargo_atendente = 1114290574678310914 # alterar, atual: programador
-token_bot = 'MTE3OTg5OTg2NDk5ODQ5MDIwMg.GuC1EJ.L3epBdcPcOzhsvJARn_EdWFB5hjTVgUAWFpvAQ' # 'MTE4NTAxMTk5NDkxNTUxNjUwNg.Gyei0V.Z09adck77yZ40zbet8Qk3LlXXygbD3vhHCAvhs'
+token_bot = 'BOT_TOKEN' # altere o token para o do seu bot de acordo com o site discord developers
 all_intents = discord.Intents.all() # Isso é necessário para acessar alguns eventos, como membros entrando no servidor
 
 # ----------------------------Persistência de Botões------------------------------------
