@@ -1,0 +1,5 @@
+discord.py
+async-generator
+async-timeout
+nest-asyncio
+captcha

@@ -1,0 +1,5 @@
+DISPLAY_NAME=OpEsp Bot
+MAIN=main.py
+MEMORY=128
+VERSION=latest
+DESCRIPTION=OpEsp Bot
